@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/adityarbhat/dl/issues"
   },
-  "homepage": "https://github.com/adityarbhat/dl#readme"
+  "homepage": "https://github.com/adityarbhat/dl#readme",
+  "dependencies": {
+    "node-kmeans": "^1.1.0"
+  }
 }
