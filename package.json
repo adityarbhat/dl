@@ -1,0 +1,23 @@
+{
+  "name": "purchaseapp",
+  "version": "1.0.0",
+  "description": "purchase analysing ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityarbhat/dl.git"
+  },
+  "author": "aditya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityarbhat/dl/issues"
+  },
+  "homepage": "https://github.com/adityarbhat/dl#readme",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0"
+  }
+}
