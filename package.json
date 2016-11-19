@@ -1,7 +1,7 @@
 {
-  "name": "purchaseapp",
+  "name": "dataleague_challenge",
   "version": "1.0.0",
-  "description": "purchase analysing ",
+  "description": "dl challenge",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,14 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/adityarbhat/dl.git"
   },
-  "author": "aditya",
+  "keywords": [
+    "adsad"
+  ],
+  "author": "Aditya^2 ,Rajath",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/adityarbhat/dl/issues"
   },
-  "homepage": "https://github.com/adityarbhat/dl#readme",
-  "dependencies": {
-    "ejs": "^2.5.2",
-    "express": "^4.14.0"
-  }
+  "homepage": "https://github.com/adityarbhat/dl#readme"
 }
